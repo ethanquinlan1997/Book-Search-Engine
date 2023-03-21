@@ -4,7 +4,7 @@
 Refactored a Google Books API search engine built with a RESTful API into a GraphQL API built with Apollo Server. App uses the MERN stack: React front end, MongoDB databse, and Node/Express server and API. 
 
 ## Deployed App
-[Heroku App] (https://book-search-app-bootcamp.herokuapp.com/)
+Heroku App - https://book-search-app-bootcamp.herokuapp.com/
 
 ## Table of Contents
 - [Usage](#usage)
